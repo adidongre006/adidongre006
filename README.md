@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hello  👋! My name is Aditya Dongre and I'm a Full Software Developer, from Nagpur.</h1>
+<h1 align="left">Hello  👋! My name is Aditya Dongre and I'm Software Developer, from Nagpur.</h1>
 
 ###
 
