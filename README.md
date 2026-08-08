@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aditya Dongre</h1>
+<h1 align="left">Hii 👋, I'm Aditya Dongre</h1>
 <h3 align="left">Software Developer & AI/Ml Engineer, based in Nagpur, MH</h3>
 
 ###
@@ -74,6 +74,9 @@
 <img src="https://img.shields.io/badge/Seaborn-0075FF?style=for-the-badge&logo=seaborn&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
+
+---
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
@@ -94,6 +97,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+   <img src="https://skillicons.dev/icons?i=git,bash,pytorch,fastapi,docker,linux&theme=dark&perline=8" alt="Core technology icons" />
 </div>
 
 ---
@@ -158,6 +162,11 @@
 </div>
 
 <br/>
+<div align="center">
+  <i>Build with intent. Measure what matters. Ship systems people can rely on.</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:1e3a2f,100:7FA36A" width="100%" alt="Footer wave" />
+</div>
 
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adidongre006&color=00AFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
