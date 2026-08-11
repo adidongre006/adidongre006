@@ -101,8 +101,14 @@
 </div>
 
 ---
+---
 
 ## 📊 GitHub Stats
+---
+#### Top Languages:
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adidongre006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
 <!-- <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=adidongre006&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00AFFF&icon_color=0075FF&text_color=FFFFFF" alt="github stats" />
@@ -113,7 +119,7 @@
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adidongre006&hide_border=true&background=0D1117&ring=00AFFF&fire=0075FF&currStreakLabel=00AFFF" alt="streak stats" />
 </div> -->
-
+----
 
 <a href="https://github.com/adidongre006">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adidongre006&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00AFFF&line=0075FF&point=ffffff" />
