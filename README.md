@@ -1,5 +1,5 @@
 <h1 align="left">Hii 👋, I'm Aditya Dongre</h1>
-<h3 align="left">Software Developer & AI/Ml Engineer, based in Nagpur, MH</h3>
+<h3 align="left">Software Developer & AI/Ml Engineer, based in MH,India.</h3>
 
 ###
 
