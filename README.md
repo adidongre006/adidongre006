@@ -6,10 +6,10 @@
 - 🎓 AI/ML Engineer, deep-diving into applied machine learning, LLMs, and agentic systems
 - 🔭 Currently building **agentic AI products** — RAG pipelines, multi-agent orchestration, and LLM-powered business tools
 - 🌱 Sharpening my skills in **LangGraph, vector databases, and MLOps** to take models from notebook to production
-<!-- - 📈 Practicing on **Kaggle**, contributing to open-source ML tooling, and shipping small end-to-end AI apps
-- 💬 Ask me about RAG architectures, multi-agent workflows, or deploying ML models with FastAPI + Docker
-- ⚡ Fun fact: I care as much about *shipping* AI as I do about *training* it — a model that isn't in production isn't done yet -->
 - I build solutions that don’t just work in notebooks… they deliver measurable business impact at scale.
+  <!-- - 📈 Practicing on **Kaggle**, contributing to open-source ML tooling, and shipping small end-to-end AI apps
+  💬 Ask me about RAG architectures, multi-agent workflows, or deploying ML models with FastAPI + Docker
+  ⚡ Fun fact: I care as much about *shipping* AI as I do about *training* it — a model that isn't in production isn't done yet -->
 
 ###
 ----
