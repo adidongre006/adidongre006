@@ -23,22 +23,26 @@
 **Languages**
 
 <div align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=0075FF" />
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=0075FF" />
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="40" alt="C++" />
+<!-- <img src="https://techstack-generator.vercel.app/c-icon.svg" width="40" height="40" alt="C" /> -->
+<!-- <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=0075FF" /> -->
+ <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" /> -->
+<!-- <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=0075FF" /> -->
+<img src="https://techstack-generator.vercel.app/python-icon.svg" height="35" alt="python" />
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" width="38" height="38" alt="C" />
 
 </div>
 
 **Machine Learning & AI**
 
 <div align="left"> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-1E90FF?style=for-the-badge&logo=xgboost&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
@@ -69,19 +73,20 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-**Visualization**
+<!-- **Visualization**
 <div align="left"> 
 <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-0075FF?style=for-the-badge&logo=seaborn&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</div>
+</div> -->
 
 ---
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="48" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+ <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" /> 
+  <!-- <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Github" /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
@@ -89,7 +94,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img width="12" />
@@ -101,15 +106,27 @@
    <img src="https://skillicons.dev/icons?i=git,bash,pytorch,fastapi,docker,linux&theme=dark&perline=8" alt="Core technology icons" />
 </div>
 
----
+
 ---
 
 ## 📊 GitHub Stats
 ---
-#### Top Languages:
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adidongre006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+
+<div style="display:flex; flex-direction:row; gap:15px; align-items:center;">
+
+<div>
+  
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adidongre006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+<div>
+  <a href="https://github.com/adidongre006?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=adidongre006&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="40%" width="40%" alt="@adidongre006's github-readme-streak-stats" /></a> 
+</div>
+           
+</div>
+
+
 
 <!-- <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=adidongre006&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00AFFF&icon_color=0075FF&text_color=FFFFFF" alt="github stats" />
@@ -121,11 +138,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adidongre006&hide_border=true&background=0D1117&ring=00AFFF&fire=0075FF&currStreakLabel=00AFFF" alt="streak stats" />
 </div> -->
 ----
+<p align="center">
 
-<a href="https://github.com/adidongre006">
+<!-- <a href="https://github.com/adidongre006">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adidongre006&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00AFFF&line=0075FF&point=ffffff" />
-  </a>
+  </a> -->
+   <div align="center">
+    <a href="https://github.com/adidongre006/github-readme-activity-graph"><img alt="aditya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adidongre006&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</div>
 
+  
+
+</p>
 
 ---
 
