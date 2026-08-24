@@ -194,3 +194,6 @@ Optional extras to enable later:
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adidongre006/adidongre006/output/pacman-contribution-graph.svg">
   </picture>
 -->
+-----
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=adidongre006&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/adidongre006)
