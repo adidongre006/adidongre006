@@ -1,4 +1,4 @@
-<h1 align="left">Hii 👋, I'm Aditya Dongre</h1>
+<h1 align="left">Hii <span><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="35" width="35"></span>, I'm Aditya Dongre</h1>
 <h3 align="left">Software Developer & AI/Ml Engineer, based in MH, India.</h3>
 
 ###
