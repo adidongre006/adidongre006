@@ -113,17 +113,11 @@
 ---
 
 
-<div style="display:flex; flex-direction:row; gap:15px; align-items:center;">
+<div style="display:flex;gap:10px; justify-content:center;">
 
-<div>
-  
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adidongre006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adidongre006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-<div>
-  <a href="https://github.com/adidongre006?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=adidongre006&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="40%" width="40%" alt="@adidongre006's github-readme-streak-stats" /></a> 
-</div>
-           
+<a href="https://github.com/adidongre006?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=adidongre006&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="40%" width="40%" alt="@adidongre006's github-readme-streak-stats" /></a>            
 </div>
 
 
@@ -140,12 +134,12 @@
 ----
 <p align="center">
 
-<!-- <a href="https://github.com/adidongre006">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adidongre006&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00AFFF&line=0075FF&point=ffffff" />
-  </a> -->
-   <div align="center">
+<a href="https://github.com/adidongre006">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adidongre006&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00AFFF&line=0075FF&point=ffffff"  alt="aditya activity graph" />
+  </a>
+   <!-- <div align="center">
     <a href="https://github.com/adidongre006/github-readme-activity-graph"><img alt="aditya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adidongre006&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</div>
+</div> -->
 
   
 
@@ -155,7 +149,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adidongre006/adidongre006/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/adidongre006/adidongre006/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adidongre006/adidongre006/blob/output/github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="https://github.com/adidongre006/adidongre006/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
@@ -221,3 +215,5 @@ Optional extras to enable later:
 -----
 
   [![Profile Views](https://komarev.com/ghpvc/?username=adidongre006&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/adidongre006)
+
+  ---
