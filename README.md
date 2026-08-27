@@ -1,4 +1,7 @@
 <h1 align="left">Hii <span><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="35" width="35"></span>, I'm Aditya Dongre</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="left">Software Developer & AI/Ml Engineer, based in MH, India.</h3>
 
 ###
@@ -12,10 +15,11 @@
   ⚡ Fun fact: I care as much about *shipping* AI as I do about *training* it — a model that isn't in production isn't done yet -->
 
 ###
-----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&duration=2800&pause=900&color=00AFFF&center=true&vCenter=true&width=740&lines=Engineering%20production-grade%20AI%20that%20delivers%20real%20ROI;From%20raw%20data%20to%20intelligent%2C%20scalable%20business%20systems;Helping%20companies%20transform%20through%20strategic%20MLaaS%20solutions" />
 
-----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 🚀 Tech Stack
@@ -80,7 +84,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div> -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="left">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" height="48" alt="javascript" />
@@ -107,17 +111,18 @@
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <div style="display:flex;gap:10px; justify-content:center;">
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adidongre006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/adidongre006?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=adidongre006&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="40%" width="40%" alt="@adidongre006's github-readme-streak-stats" /></a>            
+<a href="https://github.com/adidongre006?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=adidongre006&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="50%" width="70%" alt="@adidongre006's github-readme-streak-stats" /></a>            
 </div>
 
 
@@ -134,9 +139,9 @@
 ----
 <p align="center">
 
-<a href="https://github.com/adidongre006">
+<!-- <a href="https://github.com/adidongre006">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adidongre006&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00AFFF&line=0075FF&point=ffffff"  alt="aditya activity graph" />
-  </a>
+  </a> -->
    <!-- <div align="center">
     <a href="https://github.com/adidongre006/github-readme-activity-graph"><img alt="aditya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=adidongre006&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div> -->
@@ -145,7 +150,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adidongre006/adidongre006/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -196,7 +201,8 @@
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adidongre006&color=00AFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </div> -->
-----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <i>Thanks for stopping by — if any of this resonates, let's connect and build something. ⭐</i>
 </div>
