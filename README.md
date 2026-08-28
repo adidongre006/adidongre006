@@ -122,7 +122,8 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adidongre006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/adidongre006?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=adidongre006&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="50%" width="70%" alt="@adidongre006's github-readme-streak-stats" /></a>            
+<a href="https://github.com/adidongre006?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=adidongre006&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="50%" width="70%" alt="@adidongre006's github-readme-streak-stats" /></a>
+            
 </div>
 
 
