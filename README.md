@@ -1,25 +1,26 @@
 <h1 align="left">Hii <span><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="35" width="35"></span>, I'm Aditya Dongre</h1>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Software Developer & AI/Ml Engineer, based in MH, India.</h3>
+<h3 align="left">Building Software & Intelligent Systems</h3>
 
 ###
 
-- 🎓 AI/ML Engineer, deep-diving into applied machine learning, LLMs, and agentic systems
+- 🎓 Deep-diving into applied machine learning, LLMs, and agentic systems
 - 🔭 Currently building **agentic AI products** — RAG pipelines, multi-agent orchestration, and LLM-powered business tools
 - 🌱 Sharpening my skills in **LangGraph, vector databases, and MLOps** to take models from notebook to production
-- I build solutions that don’t just work in notebooks… they deliver measurable business impact at scale.
+- 🛠️ I build solutions that don’t just work in notebooks… they deliver measurable business impact at scale.
   <!-- - 📈 Practicing on **Kaggle**, contributing to open-source ML tooling, and shipping small end-to-end AI apps
   💬 Ask me about RAG architectures, multi-agent workflows, or deploying ML models with FastAPI + Docker
   ⚡ Fun fact: I care as much about *shipping* AI as I do about *training* it — a model that isn't in production isn't done yet -->
 
 ###
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+---
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&duration=2800&pause=900&color=00AFFF&center=true&vCenter=true&width=740&lines=Engineering%20production-grade%20AI%20that%20delivers%20real%20ROI;From%20raw%20data%20to%20intelligent%2C%20scalable%20business%20systems;Helping%20companies%20transform%20through%20strategic%20MLaaS%20solutions" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
 ## 🚀 Tech Stack
@@ -115,7 +116,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
 <div style="display:flex;gap:10px; justify-content:center;">
@@ -137,7 +138,7 @@
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adidongre006&hide_border=true&background=0D1117&ring=00AFFF&fire=0075FF&currStreakLabel=00AFFF" alt="streak stats" />
 </div> -->
-----
+
 <p align="center">
 
 <!-- <a href="https://github.com/adidongre006">
@@ -181,15 +182,15 @@
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://www.instagram.com/adidongre006?igsh=MW83b2hlZmYwZmx2OQ==">
+  <a href="https://www.instagram.com/adidongre006">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://x.com/felonblaze?t=GgGGRFascWenAuWQnRQvzQ&s=35">
+  <a href="https://x.com/felonblaze">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-dongre-006">
+  <!-- <a href="https://www.linkedin.com/in/aditya-dongre-006">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+  </a> -->
 </div>
 
 <br/>
